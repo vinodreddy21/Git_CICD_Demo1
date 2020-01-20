@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Covetrus\\R2\\VF_PAge"
+		},
+		{
+			"name": "Git_CICD_Demo1",
+			"path": "D:\\Covetrus\\R2\\CICD_Demo\\Git_CICD_Demo1"
+		}
+	],
+	"settings": {
+		"eslint.nodePath": "c:\\Users\\user\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-47.15.0\\node_modules"
+	}
+}
